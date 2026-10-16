@@ -1,0 +1,20 @@
+[project]
+name = "querypilot-backend"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+  "fastapi", "uvicorn[standard]", "pydantic-settings", "sqlalchemy", "alembic",
+  "psycopg[binary]", "duckdb", "pandas", "openpyxl", "pyarrow", "sqlglot",
+  "groq", "python-multipart", "pyjwt[crypto]",
+]
+[project.optional-dependencies]
+dev = ["pytest", "httpx", "ruff"]
+[tool.setuptools.packages.find]
+include = ["app*"]
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+[tool.ruff]
+line-length = 100
+[tool.ruff.lint]
+ignore = ["B008", "BLE001", "E501"]  # B008: FastAPI Depends() pattern

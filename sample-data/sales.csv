@@ -1,0 +1,501 @@
+order_id,order_date,product,category,quantity,unit_price,region,customer_segment
+1,2025-10-19,Phone,Electronics,2,600,East,Consumer
+2,2025-08-19,Chair,Furniture,8,120,West,Consumer
+3,2025-09-07,Laptop,Electronics,1,900,West,Corporate
+4,2025-01-02,Notebook,Stationery,8,4,East,Small Business
+5,2025-10-30,Phone,Electronics,2,600,East,Consumer
+6,2025-01-14,Laptop,Electronics,9,900,North,Corporate
+7,2025-04-21,Pen Set,Stationery,7,12,North,Small Business
+8,2025-08-13,Phone,Electronics,8,600,South,Corporate
+9,2025-12-13,Phone,Electronics,4,600,West,Corporate
+10,2025-08-02,Laptop,Electronics,9,900,North,Consumer
+11,2025-06-01,Pen Set,Stationery,2,12,East,Small Business
+12,2025-09-14,Pen Set,Stationery,7,12,South,Corporate
+13,2025-10-28,Desk,Furniture,8,250,West,Small Business
+14,2025-09-03,Laptop,Electronics,4,900,West,Corporate
+15,2025-03-30,Pen Set,Stationery,6,12,East,Consumer
+16,2025-12-06,Chair,Furniture,9,120,North,Consumer
+17,2025-07-21,Notebook,Stationery,6,4,West,Small Business
+18,2025-08-29,Laptop,Electronics,1,900,East,Small Business
+19,2025-10-31,Notebook,Stationery,10,4,West,Small Business
+20,2025-03-28,Phone,Electronics,9,600,South,Consumer
+21,2025-10-04,Phone,Electronics,9,600,South,Corporate
+22,2025-06-26,Notebook,Stationery,10,4,East,Corporate
+23,2025-12-04,Desk,Furniture,9,250,North,Corporate
+24,2025-09-20,Pen Set,Stationery,3,12,South,Corporate
+25,2025-09-04,Laptop,Electronics,6,900,South,Small Business
+26,2025-09-06,Chair,Furniture,6,120,West,Corporate
+27,2025-10-03,Laptop,Electronics,9,900,East,Corporate
+28,2025-01-15,Notebook,Stationery,4,4,South,Small Business
+29,2025-04-03,Notebook,Stationery,2,4,East,Consumer
+30,2025-02-06,Pen Set,Stationery,2,12,North,Corporate
+31,2025-05-24,Laptop,Electronics,4,900,East,Consumer
+32,2025-04-05,Notebook,Stationery,6,4,East,Consumer
+33,2025-03-23,Phone,Electronics,5,600,South,Small Business
+34,2025-11-28,Desk,Furniture,5,250,West,Small Business
+35,2025-09-12,Desk,Furniture,8,250,North,Consumer
+36,2025-07-17,Desk,Furniture,6,250,West,Consumer
+37,2025-02-25,Desk,Furniture,5,250,South,Small Business
+38,2025-01-11,Chair,Furniture,4,120,North,Corporate
+39,2025-01-19,Phone,Electronics,3,600,West,Small Business
+40,2025-12-14,Notebook,Stationery,7,4,South,Small Business
+41,2025-09-22,Pen Set,Stationery,8,12,South,Small Business
+42,2025-01-16,Pen Set,Stationery,7,12,East,Small Business
+43,2025-08-07,Pen Set,Stationery,1,12,East,Consumer
+44,2025-01-25,Phone,Electronics,5,600,North,Consumer
+45,2025-06-02,Desk,Furniture,3,250,West,Small Business
+46,2025-03-08,Desk,Furniture,1,250,North,Small Business
+47,2025-10-19,Phone,Electronics,8,600,South,Small Business
+48,2025-09-18,Notebook,Stationery,1,4,West,Consumer
+49,2025-02-20,Desk,Furniture,4,250,West,Small Business
+50,2025-09-10,Phone,Electronics,2,600,West,Corporate
+51,2025-09-13,Notebook,Stationery,1,4,East,Small Business
+52,2025-05-25,Chair,Furniture,1,120,South,Consumer
+53,2025-10-16,Desk,Furniture,3,250,East,Corporate
+54,2025-05-17,Phone,Electronics,2,600,West,Small Business
+55,2025-12-18,Desk,Furniture,9,250,West,Small Business
+56,2025-02-03,Phone,Electronics,1,600,North,Consumer
+57,2025-03-27,Phone,Electronics,9,600,South,Corporate
+58,2025-11-04,Desk,Furniture,9,250,East,Corporate
+59,2025-06-24,Desk,Furniture,2,250,East,Consumer
+60,2025-09-08,Notebook,Stationery,3,4,North,Corporate
+61,2025-07-28,Laptop,Electronics,2,900,West,Consumer
+62,2025-06-24,Phone,Electronics,2,600,West,Consumer
+63,2025-10-09,Notebook,Stationery,4,4,North,Corporate
+64,2025-06-01,Desk,Furniture,10,250,North,Corporate
+65,2025-02-25,Desk,Furniture,1,250,East,Consumer
+66,2025-12-10,Notebook,Stationery,1,4,North,Corporate
+67,2025-01-21,Laptop,Electronics,4,900,South,Small Business
+68,2025-03-24,Chair,Furniture,2,120,West,Consumer
+69,2025-05-04,Pen Set,Stationery,3,12,North,Corporate
+70,2025-10-05,Chair,Furniture,5,120,East,Small Business
+71,2025-06-11,Chair,Furniture,2,120,South,Small Business
+72,2025-01-21,Desk,Furniture,1,250,North,Corporate
+73,2025-11-02,Pen Set,Stationery,6,12,West,Corporate
+74,2025-07-24,Desk,Furniture,2,250,North,Corporate
+75,2025-08-22,Notebook,Stationery,2,4,East,Consumer
+76,2025-10-05,Notebook,Stationery,8,4,East,Corporate
+77,2025-10-05,Phone,Electronics,4,600,East,Consumer
+78,2025-07-04,Phone,Electronics,2,600,East,Consumer
+79,2025-02-16,Chair,Furniture,10,120,East,Consumer
+80,2025-06-07,Chair,Furniture,1,120,East,Consumer
+81,2025-10-24,Desk,Furniture,5,250,South,Corporate
+82,2025-10-06,Laptop,Electronics,10,900,North,Consumer
+83,2025-01-11,Phone,Electronics,4,600,West,Consumer
+84,2025-10-10,Desk,Furniture,2,250,North,Consumer
+85,2025-01-06,Pen Set,Stationery,5,12,East,Corporate
+86,2025-03-20,Chair,Furniture,2,120,East,Consumer
+87,2025-12-07,Notebook,Stationery,3,4,South,Consumer
+88,2025-06-13,Phone,Electronics,5,600,North,Small Business
+89,2025-11-05,Notebook,Stationery,5,4,South,Consumer
+90,2025-10-07,Phone,Electronics,1,600,East,Small Business
+91,2025-10-11,Pen Set,Stationery,4,12,South,Corporate
+92,2025-10-03,Chair,Furniture,3,120,North,Small Business
+93,2025-05-07,Pen Set,Stationery,5,12,North,Small Business
+94,2025-08-09,Chair,Furniture,9,120,East,Small Business
+95,2025-10-03,Chair,Furniture,8,120,North,Corporate
+96,2025-03-29,Desk,Furniture,5,250,West,Consumer
+97,2025-08-02,Pen Set,Stationery,10,12,North,Consumer
+98,2025-07-01,Pen Set,Stationery,10,12,South,Small Business
+99,2025-03-12,Phone,Electronics,5,600,East,Corporate
+100,2025-07-25,Notebook,Stationery,3,4,North,Consumer
+101,2025-01-04,Chair,Furniture,3,120,East,Small Business
+102,2025-08-13,Pen Set,Stationery,4,12,South,Corporate
+103,2025-12-18,Chair,Furniture,8,120,South,Small Business
+104,2025-06-22,Chair,Furniture,9,120,East,Small Business
+105,2025-01-25,Phone,Electronics,2,600,East,Consumer
+106,2025-04-15,Notebook,Stationery,5,4,East,Small Business
+107,2025-10-10,Desk,Furniture,6,250,South,Small Business
+108,2025-08-26,Pen Set,Stationery,10,12,North,Consumer
+109,2025-09-21,Notebook,Stationery,10,4,West,Consumer
+110,2025-05-09,Phone,Electronics,7,600,South,Small Business
+111,2025-01-27,Pen Set,Stationery,8,12,West,Small Business
+112,2025-06-28,Pen Set,Stationery,7,12,South,Small Business
+113,2025-01-21,Pen Set,Stationery,9,12,North,Corporate
+114,2025-02-21,Pen Set,Stationery,5,12,North,Consumer
+115,2025-12-04,Notebook,Stationery,2,4,West,Consumer
+116,2025-08-10,Chair,Furniture,7,120,South,Corporate
+117,2025-03-06,Chair,Furniture,10,120,West,Consumer
+118,2025-08-09,Laptop,Electronics,10,900,West,Consumer
+119,2025-06-01,Pen Set,Stationery,5,12,South,Corporate
+120,2025-10-14,Pen Set,Stationery,1,12,South,Small Business
+121,2025-10-24,Chair,Furniture,1,120,North,Small Business
+122,2025-05-05,Notebook,Stationery,5,4,South,Consumer
+123,2025-03-17,Desk,Furniture,9,250,South,Corporate
+124,2025-10-27,Desk,Furniture,5,250,West,Consumer
+125,2025-07-02,Notebook,Stationery,8,4,West,Consumer
+126,2025-10-20,Phone,Electronics,7,600,South,Corporate
+127,2025-01-13,Laptop,Electronics,2,900,North,Small Business
+128,2025-12-12,Desk,Furniture,3,250,North,Small Business
+129,2025-10-21,Desk,Furniture,5,250,West,Small Business
+130,2025-07-02,Pen Set,Stationery,9,12,East,Consumer
+131,2025-08-15,Laptop,Electronics,8,900,East,Corporate
+132,2025-07-24,Notebook,Stationery,6,4,West,Consumer
+133,2025-07-13,Pen Set,Stationery,7,12,South,Small Business
+134,2025-05-23,Laptop,Electronics,10,900,South,Corporate
+135,2025-09-22,Notebook,Stationery,7,4,East,Small Business
+136,2025-08-19,Phone,Electronics,10,600,South,Corporate
+137,2025-01-02,Notebook,Stationery,7,4,West,Corporate
+138,2025-11-15,Desk,Furniture,10,250,North,Corporate
+139,2025-05-07,Pen Set,Stationery,5,12,North,Corporate
+140,2025-11-19,Pen Set,Stationery,3,12,West,Corporate
+141,2025-02-07,Phone,Electronics,10,600,North,Corporate
+142,2025-12-29,Desk,Furniture,7,250,East,Consumer
+143,2025-05-13,Chair,Furniture,8,120,South,Corporate
+144,2025-01-24,Notebook,Stationery,5,4,North,Small Business
+145,2025-08-05,Notebook,Stationery,2,4,East,Consumer
+146,2025-08-15,Pen Set,Stationery,1,12,South,Small Business
+147,2025-03-24,Pen Set,Stationery,2,12,West,Small Business
+148,2025-05-22,Pen Set,Stationery,10,12,East,Consumer
+149,2025-04-17,Notebook,Stationery,4,4,East,Corporate
+150,2025-02-08,Laptop,Electronics,9,900,East,Corporate
+151,2025-10-13,Notebook,Stationery,1,4,South,Corporate
+152,2025-10-12,Pen Set,Stationery,5,12,East,Small Business
+153,2025-04-29,Pen Set,Stationery,7,12,West,Consumer
+154,2025-05-13,Chair,Furniture,10,120,East,Small Business
+155,2025-05-13,Phone,Electronics,10,600,South,Small Business
+156,2025-11-15,Laptop,Electronics,7,900,East,Corporate
+157,2025-05-18,Phone,Electronics,4,600,North,Small Business
+158,2025-03-26,Pen Set,Stationery,10,12,West,Small Business
+159,2025-03-17,Pen Set,Stationery,10,12,East,Corporate
+160,2025-03-25,Notebook,Stationery,3,4,South,Small Business
+161,2025-07-04,Chair,Furniture,5,120,West,Consumer
+162,2025-04-16,Laptop,Electronics,5,900,North,Consumer
+163,2025-07-23,Phone,Electronics,6,600,West,Consumer
+164,2025-01-24,Phone,Electronics,1,600,North,Consumer
+165,2025-01-18,Pen Set,Stationery,8,12,West,Corporate
+166,2025-05-21,Pen Set,Stationery,2,12,South,Consumer
+167,2025-07-24,Phone,Electronics,4,600,West,Corporate
+168,2025-03-28,Chair,Furniture,4,120,South,Corporate
+169,2025-10-08,Chair,Furniture,10,120,West,Consumer
+170,2025-05-13,Chair,Furniture,6,120,West,Small Business
+171,2025-04-20,Laptop,Electronics,2,900,North,Consumer
+172,2025-09-03,Laptop,Electronics,6,900,West,Small Business
+173,2025-04-11,Desk,Furniture,7,250,South,Small Business
+174,2025-01-16,Phone,Electronics,1,600,West,Consumer
+175,2025-10-05,Pen Set,Stationery,1,12,West,Corporate
+176,2025-02-10,Phone,Electronics,8,600,East,Consumer
+177,2025-10-02,Laptop,Electronics,1,900,South,Consumer
+178,2025-03-02,Desk,Furniture,7,250,North,Consumer
+179,2025-09-13,Laptop,Electronics,3,900,East,Small Business
+180,2025-12-06,Phone,Electronics,8,600,West,Corporate
+181,2025-05-18,Pen Set,Stationery,5,12,South,Consumer
+182,2025-10-29,Laptop,Electronics,10,900,South,Corporate
+183,2025-11-06,Chair,Furniture,9,120,North,Corporate
+184,2025-07-31,Notebook,Stationery,9,4,South,Small Business
+185,2025-08-06,Notebook,Stationery,2,4,East,Small Business
+186,2025-02-07,Notebook,Stationery,5,4,South,Consumer
+187,2025-01-31,Phone,Electronics,4,600,West,Consumer
+188,2025-11-23,Laptop,Electronics,2,900,West,Small Business
+189,2025-02-20,Desk,Furniture,6,250,North,Consumer
+190,2025-01-17,Notebook,Stationery,8,4,South,Corporate
+191,2025-08-17,Pen Set,Stationery,1,12,East,Consumer
+192,2025-06-16,Desk,Furniture,2,250,East,Consumer
+193,2025-01-30,Chair,Furniture,5,120,East,Small Business
+194,2025-05-14,Phone,Electronics,7,600,North,Small Business
+195,2025-02-18,Desk,Furniture,7,250,South,Small Business
+196,2025-04-16,Notebook,Stationery,6,4,East,Small Business
+197,2025-10-27,Chair,Furniture,8,120,North,Consumer
+198,2025-08-18,Pen Set,Stationery,9,12,North,Corporate
+199,2025-03-22,Pen Set,Stationery,4,12,East,Corporate
+200,2025-06-16,Notebook,Stationery,2,4,West,Corporate
+201,2025-10-22,Phone,Electronics,2,600,North,Corporate
+202,2025-10-01,Pen Set,Stationery,6,12,West,Corporate
+203,2025-06-30,Desk,Furniture,5,250,East,Small Business
+204,2025-09-24,Pen Set,Stationery,9,12,North,Small Business
+205,2025-03-18,Laptop,Electronics,6,900,East,Corporate
+206,2025-02-05,Notebook,Stationery,8,4,East,Corporate
+207,2025-07-06,Chair,Furniture,7,120,North,Small Business
+208,2025-03-10,Laptop,Electronics,1,900,West,Small Business
+209,2025-05-06,Desk,Furniture,10,250,East,Corporate
+210,2025-07-09,Pen Set,Stationery,7,12,East,Corporate
+211,2025-06-24,Notebook,Stationery,9,4,South,Consumer
+212,2025-05-09,Phone,Electronics,4,600,South,Consumer
+213,2025-07-30,Phone,Electronics,10,600,North,Consumer
+214,2025-12-15,Notebook,Stationery,5,4,North,Consumer
+215,2025-02-04,Desk,Furniture,10,250,North,Consumer
+216,2025-11-26,Phone,Electronics,3,600,West,Consumer
+217,2025-07-08,Notebook,Stationery,8,4,East,Consumer
+218,2025-11-03,Phone,Electronics,8,600,South,Corporate
+219,2025-12-12,Chair,Furniture,6,120,South,Corporate
+220,2025-02-07,Pen Set,Stationery,5,12,West,Consumer
+221,2025-09-30,Laptop,Electronics,7,900,West,Consumer
+222,2025-11-12,Chair,Furniture,9,120,West,Consumer
+223,2025-08-23,Desk,Furniture,1,250,South,Corporate
+224,2025-12-20,Pen Set,Stationery,1,12,North,Corporate
+225,2025-06-11,Notebook,Stationery,9,4,East,Small Business
+226,2025-10-05,Chair,Furniture,9,120,West,Small Business
+227,2025-10-25,Pen Set,Stationery,5,12,West,Corporate
+228,2025-09-17,Phone,Electronics,8,600,South,Small Business
+229,2025-05-10,Phone,Electronics,1,600,West,Small Business
+230,2025-10-17,Pen Set,Stationery,1,12,East,Corporate
+231,2025-05-25,Chair,Furniture,1,120,North,Consumer
+232,2025-07-16,Laptop,Electronics,5,900,West,Corporate
+233,2025-11-22,Desk,Furniture,8,250,East,Corporate
+234,2025-03-01,Chair,Furniture,8,120,East,Consumer
+235,2025-03-17,Chair,Furniture,1,120,South,Corporate
+236,2025-03-07,Desk,Furniture,10,250,East,Corporate
+237,2025-09-21,Desk,Furniture,5,250,West,Small Business
+238,2025-08-10,Desk,Furniture,6,250,West,Consumer
+239,2025-09-09,Pen Set,Stationery,7,12,West,Consumer
+240,2025-03-08,Laptop,Electronics,4,900,South,Consumer
+241,2025-01-14,Pen Set,Stationery,2,12,East,Consumer
+242,2025-02-20,Chair,Furniture,7,120,South,Consumer
+243,2025-08-07,Laptop,Electronics,10,900,North,Small Business
+244,2025-10-01,Phone,Electronics,7,600,East,Consumer
+245,2025-02-22,Pen Set,Stationery,9,12,West,Small Business
+246,2025-03-02,Pen Set,Stationery,5,12,East,Consumer
+247,2025-12-27,Chair,Furniture,1,120,South,Small Business
+248,2025-02-14,Pen Set,Stationery,7,12,North,Small Business
+249,2025-05-31,Chair,Furniture,9,120,West,Corporate
+250,2025-11-07,Laptop,Electronics,8,900,North,Consumer
+251,2025-11-11,Chair,Furniture,4,120,South,Small Business
+252,2025-08-02,Desk,Furniture,9,250,East,Corporate
+253,2025-10-06,Pen Set,Stationery,4,12,East,Corporate
+254,2025-01-05,Laptop,Electronics,6,900,East,Consumer
+255,2025-11-17,Notebook,Stationery,8,4,East,Consumer
+256,2025-09-18,Phone,Electronics,5,600,East,Small Business
+257,2025-07-30,Phone,Electronics,3,600,South,Corporate
+258,2025-07-28,Phone,Electronics,9,600,North,Small Business
+259,2025-09-18,Notebook,Stationery,3,4,West,Corporate
+260,2025-09-03,Desk,Furniture,5,250,East,Corporate
+261,2025-09-13,Phone,Electronics,6,600,West,Consumer
+262,2025-04-01,Desk,Furniture,10,250,South,Small Business
+263,2025-12-22,Notebook,Stationery,8,4,South,Consumer
+264,2025-06-16,Notebook,Stationery,9,4,South,Small Business
+265,2025-06-11,Phone,Electronics,10,600,West,Corporate
+266,2025-03-02,Desk,Furniture,3,250,South,Small Business
+267,2025-04-26,Desk,Furniture,2,250,North,Small Business
+268,2025-12-17,Phone,Electronics,2,600,South,Small Business
+269,2025-09-15,Phone,Electronics,10,600,East,Corporate
+270,2025-01-03,Desk,Furniture,1,250,East,Small Business
+271,2025-02-13,Phone,Electronics,4,600,East,Small Business
+272,2025-06-24,Pen Set,Stationery,5,12,West,Consumer
+273,2025-06-18,Laptop,Electronics,6,900,South,Consumer
+274,2025-03-15,Desk,Furniture,10,250,North,Corporate
+275,2025-02-17,Laptop,Electronics,2,900,East,Corporate
+276,2025-05-18,Phone,Electronics,9,600,North,Corporate
+277,2025-02-10,Laptop,Electronics,3,900,West,Corporate
+278,2025-11-23,Pen Set,Stationery,4,12,North,Small Business
+279,2025-05-21,Desk,Furniture,1,250,East,Consumer
+280,2025-11-25,Desk,Furniture,3,250,East,Corporate
+281,2025-12-14,Laptop,Electronics,10,900,West,Small Business
+282,2025-10-02,Chair,Furniture,7,120,East,Consumer
+283,2025-06-04,Pen Set,Stationery,9,12,South,Consumer
+284,2025-09-18,Notebook,Stationery,2,4,South,Consumer
+285,2025-08-11,Phone,Electronics,5,600,North,Corporate
+286,2025-05-19,Notebook,Stationery,9,4,East,Corporate
+287,2025-07-26,Phone,Electronics,2,600,East,Consumer
+288,2025-10-06,Pen Set,Stationery,6,12,North,Small Business
+289,2025-08-17,Desk,Furniture,3,250,South,Consumer
+290,2025-03-14,Notebook,Stationery,4,4,West,Corporate
+291,2025-05-30,Desk,Furniture,3,250,South,Corporate
+292,2025-07-27,Chair,Furniture,2,120,South,Corporate
+293,2025-12-08,Desk,Furniture,10,250,North,Small Business
+294,2025-11-26,Laptop,Electronics,3,900,West,Small Business
+295,2025-02-21,Notebook,Stationery,8,4,North,Corporate
+296,2025-12-14,Notebook,Stationery,7,4,East,Corporate
+297,2025-07-27,Chair,Furniture,10,120,West,Consumer
+298,2025-08-30,Laptop,Electronics,1,900,North,Consumer
+299,2025-10-28,Laptop,Electronics,3,900,East,Small Business
+300,2025-10-18,Desk,Furniture,6,250,West,Small Business
+301,2025-11-15,Phone,Electronics,4,600,North,Small Business
+302,2025-03-23,Desk,Furniture,2,250,North,Small Business
+303,2025-08-05,Desk,Furniture,6,250,East,Small Business
+304,2025-01-29,Pen Set,Stationery,10,12,West,Corporate
+305,2025-07-03,Chair,Furniture,5,120,East,Corporate
+306,2025-05-02,Pen Set,Stationery,10,12,South,Consumer
+307,2025-12-11,Desk,Furniture,2,250,South,Small Business
+308,2025-11-17,Pen Set,Stationery,8,12,East,Small Business
+309,2025-10-26,Laptop,Electronics,1,900,West,Consumer
+310,2025-11-20,Chair,Furniture,3,120,West,Small Business
+311,2025-02-21,Phone,Electronics,4,600,East,Corporate
+312,2025-05-06,Pen Set,Stationery,8,12,West,Corporate
+313,2025-11-30,Chair,Furniture,4,120,West,Corporate
+314,2025-10-05,Chair,Furniture,2,120,West,Corporate
+315,2025-03-18,Phone,Electronics,1,600,West,Corporate
+316,2025-01-14,Laptop,Electronics,2,900,South,Corporate
+317,2025-12-08,Chair,Furniture,9,120,East,Consumer
+318,2025-09-26,Phone,Electronics,2,600,East,Consumer
+319,2025-07-23,Chair,Furniture,4,120,West,Consumer
+320,2025-05-08,Notebook,Stationery,7,4,South,Small Business
+321,2025-06-25,Phone,Electronics,4,600,North,Small Business
+322,2025-03-24,Notebook,Stationery,3,4,West,Small Business
+323,2025-09-20,Laptop,Electronics,4,900,West,Consumer
+324,2025-09-22,Laptop,Electronics,4,900,North,Consumer
+325,2025-08-27,Chair,Furniture,2,120,North,Corporate
+326,2025-10-14,Laptop,Electronics,2,900,West,Consumer
+327,2025-05-03,Notebook,Stationery,1,4,North,Corporate
+328,2025-05-23,Chair,Furniture,7,120,South,Small Business
+329,2025-10-15,Phone,Electronics,6,600,West,Small Business
+330,2025-10-11,Chair,Furniture,3,120,West,Small Business
+331,2025-04-13,Chair,Furniture,8,120,East,Corporate
+332,2025-05-13,Phone,Electronics,10,600,East,Consumer
+333,2025-11-15,Pen Set,Stationery,2,12,East,Corporate
+334,2025-05-13,Phone,Electronics,5,600,East,Corporate
+335,2025-05-23,Chair,Furniture,10,120,West,Consumer
+336,2025-03-08,Phone,Electronics,5,600,South,Consumer
+337,2025-10-24,Laptop,Electronics,9,900,South,Small Business
+338,2025-05-03,Chair,Furniture,10,120,South,Small Business
+339,2025-07-20,Chair,Furniture,4,120,North,Small Business
+340,2025-03-20,Laptop,Electronics,1,900,North,Small Business
+341,2025-07-15,Chair,Furniture,7,120,South,Small Business
+342,2025-03-08,Notebook,Stationery,9,4,North,Consumer
+343,2025-03-13,Chair,Furniture,5,120,South,Small Business
+344,2025-07-23,Pen Set,Stationery,6,12,South,Consumer
+345,2025-12-30,Desk,Furniture,3,250,East,Corporate
+346,2025-05-30,Notebook,Stationery,2,4,East,Consumer
+347,2025-08-26,Pen Set,Stationery,1,12,East,Small Business
+348,2025-02-22,Notebook,Stationery,10,4,East,Corporate
+349,2025-11-13,Desk,Furniture,1,250,North,Corporate
+350,2025-03-09,Phone,Electronics,2,600,North,Corporate
+351,2025-10-28,Pen Set,Stationery,4,12,South,Small Business
+352,2025-07-23,Notebook,Stationery,2,4,South,Corporate
+353,2025-09-22,Pen Set,Stationery,3,12,East,Small Business
+354,2025-03-03,Laptop,Electronics,4,900,West,Small Business
+355,2025-10-07,Chair,Furniture,10,120,South,Corporate
+356,2025-11-23,Laptop,Electronics,3,900,South,Corporate
+357,2025-12-05,Desk,Furniture,7,250,West,Corporate
+358,2025-02-20,Chair,Furniture,3,120,South,Small Business
+359,2025-08-21,Laptop,Electronics,1,900,West,Consumer
+360,2025-10-03,Chair,Furniture,6,120,South,Consumer
+361,2025-12-14,Laptop,Electronics,1,900,West,Corporate
+362,2025-03-30,Phone,Electronics,10,600,South,Small Business
+363,2025-09-25,Chair,Furniture,6,120,South,Consumer
+364,2025-12-04,Desk,Furniture,10,250,North,Corporate
+365,2025-08-23,Laptop,Electronics,1,900,South,Consumer
+366,2025-08-29,Desk,Furniture,1,250,North,Small Business
+367,2025-02-17,Chair,Furniture,7,120,East,Corporate
+368,2025-06-30,Desk,Furniture,8,250,North,Small Business
+369,2025-01-09,Chair,Furniture,7,120,East,Small Business
+370,2025-06-12,Pen Set,Stationery,3,12,East,Consumer
+371,2025-07-04,Notebook,Stationery,7,4,West,Small Business
+372,2025-10-22,Laptop,Electronics,10,900,North,Consumer
+373,2025-09-29,Notebook,Stationery,1,4,North,Corporate
+374,2025-07-08,Desk,Furniture,9,250,North,Small Business
+375,2025-10-26,Desk,Furniture,2,250,West,Small Business
+376,2025-10-04,Laptop,Electronics,8,900,East,Small Business
+377,2025-01-02,Notebook,Stationery,3,4,East,Corporate
+378,2025-03-16,Phone,Electronics,10,600,South,Small Business
+379,2025-07-26,Laptop,Electronics,6,900,West,Corporate
+380,2025-05-14,Desk,Furniture,10,250,East,Consumer
+381,2025-02-02,Pen Set,Stationery,4,12,East,Corporate
+382,2025-05-26,Notebook,Stationery,10,4,North,Consumer
+383,2025-03-29,Pen Set,Stationery,5,12,West,Consumer
+384,2025-05-25,Phone,Electronics,9,600,East,Consumer
+385,2025-02-20,Phone,Electronics,5,600,West,Consumer
+386,2025-09-20,Pen Set,Stationery,5,12,South,Small Business
+387,2025-10-09,Laptop,Electronics,6,900,East,Corporate
+388,2025-03-10,Notebook,Stationery,1,4,West,Corporate
+389,2025-01-20,Pen Set,Stationery,1,12,East,Corporate
+390,2025-03-25,Pen Set,Stationery,9,12,North,Small Business
+391,2025-12-26,Notebook,Stationery,9,4,West,Consumer
+392,2025-04-30,Phone,Electronics,2,600,South,Small Business
+393,2025-03-04,Notebook,Stationery,5,4,West,Consumer
+394,2025-07-04,Laptop,Electronics,8,900,East,Small Business
+395,2025-07-01,Pen Set,Stationery,4,12,North,Consumer
+396,2025-01-17,Chair,Furniture,3,120,East,Small Business
+397,2025-01-05,Laptop,Electronics,4,900,North,Small Business
+398,2025-01-18,Phone,Electronics,9,600,South,Consumer
+399,2025-05-28,Chair,Furniture,4,120,West,Small Business
+400,2025-06-16,Desk,Furniture,7,250,North,Consumer
+401,2025-04-03,Notebook,Stationery,4,4,East,Small Business
+402,2025-11-11,Chair,Furniture,8,120,East,Consumer
+403,2025-01-11,Chair,Furniture,2,120,West,Small Business
+404,2025-06-25,Notebook,Stationery,6,4,North,Small Business
+405,2025-04-10,Chair,Furniture,9,120,West,Small Business
+406,2025-12-05,Notebook,Stationery,9,4,West,Small Business
+407,2025-10-22,Pen Set,Stationery,8,12,West,Consumer
+408,2025-12-12,Desk,Furniture,9,250,East,Small Business
+409,2025-11-07,Chair,Furniture,9,120,East,Corporate
+410,2025-01-08,Desk,Furniture,10,250,North,Corporate
+411,2025-07-02,Chair,Furniture,4,120,West,Consumer
+412,2025-09-01,Pen Set,Stationery,6,12,South,Corporate
+413,2025-01-28,Chair,Furniture,2,120,East,Consumer
+414,2025-10-05,Desk,Furniture,1,250,East,Corporate
+415,2025-06-16,Laptop,Electronics,6,900,East,Small Business
+416,2025-04-17,Laptop,Electronics,2,900,East,Consumer
+417,2025-11-27,Pen Set,Stationery,2,12,South,Small Business
+418,2025-07-29,Desk,Furniture,10,250,East,Consumer
+419,2025-11-26,Laptop,Electronics,3,900,East,Corporate
+420,2025-07-13,Desk,Furniture,7,250,West,Consumer
+421,2025-07-28,Phone,Electronics,4,600,North,Small Business
+422,2025-11-19,Phone,Electronics,4,600,South,Small Business
+423,2025-07-14,Chair,Furniture,4,120,South,Small Business
+424,2025-07-04,Desk,Furniture,1,250,East,Corporate
+425,2025-03-29,Chair,Furniture,3,120,North,Corporate
+426,2025-10-11,Chair,Furniture,6,120,West,Corporate
+427,2025-02-27,Notebook,Stationery,10,4,East,Small Business
+428,2025-05-22,Pen Set,Stationery,7,12,North,Corporate
+429,2025-11-24,Laptop,Electronics,8,900,North,Small Business
+430,2025-11-07,Phone,Electronics,5,600,West,Corporate
+431,2025-01-28,Phone,Electronics,2,600,South,Consumer
+432,2025-01-25,Desk,Furniture,2,250,South,Consumer
+433,2025-02-01,Pen Set,Stationery,7,12,North,Consumer
+434,2025-01-05,Laptop,Electronics,1,900,East,Corporate
+435,2025-11-10,Laptop,Electronics,1,900,South,Corporate
+436,2025-05-17,Phone,Electronics,5,600,East,Consumer
+437,2025-04-18,Phone,Electronics,7,600,North,Consumer
+438,2025-12-25,Notebook,Stationery,8,4,North,Corporate
+439,2025-07-28,Desk,Furniture,2,250,North,Small Business
+440,2025-09-16,Phone,Electronics,2,600,South,Consumer
+441,2025-04-01,Phone,Electronics,5,600,North,Consumer
+442,2025-03-16,Desk,Furniture,2,250,West,Consumer
+443,2025-01-23,Phone,Electronics,5,600,East,Consumer
+444,2025-02-15,Notebook,Stationery,8,4,South,Consumer
+445,2025-04-05,Pen Set,Stationery,2,12,North,Consumer
+446,2025-03-01,Laptop,Electronics,2,900,South,Corporate
+447,2025-05-10,Pen Set,Stationery,9,12,West,Consumer
+448,2025-01-17,Pen Set,Stationery,5,12,South,Corporate
+449,2025-07-02,Desk,Furniture,8,250,West,Small Business
+450,2025-02-15,Chair,Furniture,7,120,South,Corporate
+451,2025-04-02,Desk,Furniture,10,250,North,Consumer
+452,2025-08-12,Laptop,Electronics,5,900,East,Corporate
+453,2025-07-29,Desk,Furniture,8,250,East,Corporate
+454,2025-07-22,Desk,Furniture,8,250,North,Corporate
+455,2025-06-04,Phone,Electronics,3,600,East,Small Business
+456,2025-10-08,Phone,Electronics,3,600,South,Corporate
+457,2025-11-18,Pen Set,Stationery,3,12,South,Consumer
+458,2025-11-10,Laptop,Electronics,5,900,South,Corporate
+459,2025-06-11,Pen Set,Stationery,3,12,East,Corporate
+460,2025-02-09,Desk,Furniture,7,250,South,Small Business
+461,2025-08-19,Desk,Furniture,2,250,South,Small Business
+462,2025-02-05,Desk,Furniture,3,250,West,Small Business
+463,2025-01-24,Laptop,Electronics,4,900,East,Small Business
+464,2025-09-17,Desk,Furniture,6,250,East,Corporate
+465,2025-03-03,Pen Set,Stationery,3,12,West,Consumer
+466,2025-11-11,Desk,Furniture,4,250,North,Consumer
+467,2025-06-17,Desk,Furniture,10,250,West,Consumer
+468,2025-01-26,Desk,Furniture,4,250,East,Small Business
+469,2025-01-04,Notebook,Stationery,4,4,North,Consumer
+470,2025-07-08,Phone,Electronics,9,600,East,Consumer
+471,2025-04-27,Phone,Electronics,2,600,East,Small Business
+472,2025-09-18,Notebook,Stationery,9,4,West,Corporate
+473,2025-09-20,Notebook,Stationery,8,4,South,Small Business
+474,2025-04-11,Desk,Furniture,7,250,North,Corporate
+475,2025-04-28,Phone,Electronics,3,600,South,Consumer
+476,2025-03-25,Laptop,Electronics,8,900,East,Consumer
+477,2025-07-04,Laptop,Electronics,2,900,South,Small Business
+478,2025-04-19,Pen Set,Stationery,2,12,West,Small Business
+479,2025-04-11,Pen Set,Stationery,10,12,East,Consumer
+480,2025-12-20,Notebook,Stationery,1,4,South,Corporate
+481,2025-10-10,Chair,Furniture,1,120,North,Corporate
+482,2025-10-14,Chair,Furniture,6,120,South,Corporate
+483,2025-09-19,Laptop,Electronics,6,900,East,Small Business
+484,2025-10-21,Desk,Furniture,2,250,West,Corporate
+485,2025-02-06,Chair,Furniture,5,120,North,Small Business
+486,2025-06-15,Pen Set,Stationery,1,12,South,Corporate
+487,2025-06-10,Phone,Electronics,5,600,East,Corporate
+488,2025-08-01,Chair,Furniture,1,120,East,Consumer
+489,2025-05-29,Pen Set,Stationery,1,12,North,Corporate
+490,2025-11-10,Chair,Furniture,4,120,East,Corporate
+491,2025-10-17,Pen Set,Stationery,8,12,East,Small Business
+492,2025-12-12,Desk,Furniture,3,250,East,Consumer
+493,2025-02-18,Desk,Furniture,7,250,East,Small Business
+494,2025-10-18,Pen Set,Stationery,4,12,West,Corporate
+495,2025-09-04,Phone,Electronics,4,600,North,Small Business
+496,2025-05-07,Pen Set,Stationery,2,12,North,Consumer
+497,2025-09-17,Notebook,Stationery,8,4,West,Small Business
+498,2025-09-24,Desk,Furniture,3,250,West,Corporate
+499,2025-07-17,Laptop,Electronics,9,900,West,Consumer
+500,2025-10-29,Notebook,Stationery,6,4,North,Small Business
