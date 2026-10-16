@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+pydantic-settings
+sqlalchemy
+alembic
+psycopg[binary]
+duckdb
+pandas
+openpyxl
+pyarrow
+sqlglot
+groq
+python-multipart
+pyjwt[crypto]
