@@ -10,7 +10,6 @@ interface Props {
   message: React.ReactNode;
   confirmLabel?: string;
   onClose: () => void;
-  /** Throw to keep the dialog open and show the error inside it. */
   onConfirm: () => Promise<void>;
 }
 

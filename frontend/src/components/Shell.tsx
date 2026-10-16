@@ -7,7 +7,6 @@ import {
   History,
   LayoutDashboard,
   Menu,
-  Settings,
   Terminal,
   X,
 } from "lucide-react";
@@ -22,7 +21,6 @@ const NAV = [
   { href: "/workspace", label: "Query Workspace", icon: Terminal },
   { href: "/history", label: "Query History", icon: History },
   { href: "/saved", label: "Saved Queries", icon: Bookmark },
-  { href: "/settings", label: "Settings", icon: Settings },
 ];
 
 function Brand() {
